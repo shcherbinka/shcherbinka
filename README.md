@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://0x666.ru/" target="_blank">Shcherbinka</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">,WEB Developer and Seo Specialist from Russia 🇷🇺</h3>
+<h3 align="center">,WEB Developer and Seo Specialist from Russia</h3>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+became+quite+excited+about+blockchain+technologies+(web3%2C+DeFi)%2C+so+much+that+I+wanted+to+make+the+transition+from+Web2+to+Web3.+-+I%E2%80%99m+learning+Web3+basics%3A+Blockchains%2C+Cryptocurrency%2C+DeFi%2C+and+programming+language+Solidity.+-+Learn+to+write+smart+contracts+in+Solidity+programming+language.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=64&pause=1000&center=true&multiline=true&width=5000&height=350&lines=I+became+quite+excited+about+blockchain+technologies+(web3%2C+DeFi)%2C+so+much+that+I+wanted+to+make+the+transition+from+Web2+to+Web3.;I%E2%80%99m+learning+Web3+basics%3A+Blockchains%2C+Cryptocurrency%2C+DeFi%2C+and+programming+language+Solidity.;Learn+to+write+smart+contracts+in+Solidity+programming+language.)](https://git.io/typing-svg)
 
 - 🌱 I became quite excited about blockchain technologies (web3, DeFi), so much that I wanted to make the transition from Web2 to Web3.
 - I’m learning Web3 basics: Blockchains, Cryptocurrency, DeFi, and programming language Solidity.
